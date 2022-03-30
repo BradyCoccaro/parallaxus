@@ -1,0 +1,85 @@
+@charset "UTF-8";
+.parallax {
+  
+  background-image: url("../images/dino3.png");
+ 
+  min-height: 600px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-color: white;
+  text-align: center;
+}
+.parallax2 {
+  
+  background-image: url("../images/spinospine.png");
+ 
+  min-height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-color: #9FB09F;
+  text-align: center;
+}
+.parallax3 {
+  
+  background-image: url("../images/helicopter.png");
+ 
+  min-height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-color: #8AD4D9;
+  text-align: center;
+}
+	
+.parallax4{
+  
+  background-image: url("../images/platypus.png");
+ 
+  min-height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-color: #503A2A;
+  text-align: center;
+}
+.parallax5{
+  
+  background-image: url("../images/todd.png");
+ 
+  min-height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-color: #DAE634;
+  text-align: center;
+}
+footer{
+	height: 250px;
+	background-color: grey;
+	background-image: url("../images/muybien.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	padding-top: 100px;
+	text-decoration: none;
+	
+}
